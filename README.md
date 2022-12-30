@@ -1,2 +1,2 @@
 # Projeto-pokedex
-Pokedex desenvolvido em Html, Css e Javascript
+Pokedex developed in Javascript
